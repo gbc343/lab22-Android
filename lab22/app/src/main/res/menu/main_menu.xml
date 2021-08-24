@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item
+        android:id="@+id/menu_maps"
+        android:icon="@drawable/ic_launcher_background"
+        android:title="Map"
+        app:showAsAction="ifRoom|withText" />
+    <item
+        android:id="@+id/menu_activity"
+        android:icon="@drawable/ic_launcher_background"
+        android:title="Start_Scond"
+        app:showAsAction="ifRoom|withText" />
+</menu>
